@@ -5,6 +5,8 @@ I'm Sukhpinder Singh, a passionate self-taught .Net developer from India. Worked
 **Skills**
 C# | Microsoft Certified | Medium Blogger | .Net Core | Xamarin | ASP.Net | Angular
 
+**Medium Publication:** https://medium.com/c-sharp-progarmming
+
 <a href="https://www.buymeacoffee.com/sukhpindersingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
